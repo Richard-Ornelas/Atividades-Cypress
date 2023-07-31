@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Osvaldo",
+        "sobrenome": "Phinio",
+        "empresa": "Lux",
+        "endereco": "Rua norte",
+        "numero": "2548",
+        "pais": "Brasil",
+        "cidade": "Brasilia",
+        "estado": "Distrito Federal",
+        "cep": "71929-000",
+        "telefone": "61996356470",
+        "email": "Osvaldo@gmai.com"
+    },
+
+    {
+        "nome": "Marcos",
+        "sobrenome": "Oviveira",
+        "empresa": "Marte",
+        "endereco": "Rua sul",
+        "numero": "25528",
+        "pais": "Brasil",
+        "cidade": "Brasilia",
+        "estado": "Distrito Federal",
+        "cep": "72929-000",
+        "telefone": "61986356470",
+        "email": "Marcus@gmai.com"
+
+    },
+
+    {
+        "nome": "Geraldo",
+        "sobrenome": "Pedro",
+        "empresa": "ERx",
+        "endereco": "Rua central",
+        "numero": "27895",
+        "pais": "Brasil",
+        "cidade": "Brasilia",
+        "estado": "Distrito Federal",
+        "cep": "71978-000",
+        "telefone": "61996356820",
+        "email": "Geraldo@gmai.com"
+    }
+]
